@@ -1,7 +1,4 @@
-# m2tanvee, Tanveer, Muhammad Furrukh, 501035362, Section 011
-# a42chowd, Chowdhury, Afnan, 501038102, Section 091
-# s6kohli, Kohli, Shaan, 501028410, Section 071
-# a65chaud, Chaudhry, Ammar, 501029828, Section 051
+
 
 #!/bin/bash
 #source: LINUX
